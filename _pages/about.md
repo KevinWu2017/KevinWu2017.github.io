@@ -45,7 +45,7 @@ My research interest includes high performance computing and system for AI.
 </div>
 </div> -->
 
-- `Eurosys 2025` [Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores](https://dl.acm.org/doi/10.1145/3689031.3717455), **Chenpeng Wu**, Qiqi Gu, Heng Shi, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/guqiqi/Samoyeds)
+- `Eurosys 2025` [Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores](https://dl.acm.org/doi/10.1145/3689031.3717455), **Chenpeng Wu**, Qiqi Gu, Heng Shi, et al. [![](https://img.shields.io/github/stars/guqiqi/Samoyeds?style=social&label=Code+Stars)](https://github.com/guqiqi/Samoyeds)
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
