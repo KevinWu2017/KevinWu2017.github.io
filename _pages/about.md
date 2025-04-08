@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D student at [TCloud Lab](https://tcloud.sjtu.edu.cn/)in Shanghai Jiao Tong University.
+I am now a Ph.D student at [TCloud Lab](https://tcloud.sjtu.edu.cn/) in Shanghai Jiao Tong University.
 I graduated from Chien-Shiung Wu College, Southeast University [(东南大学吴健雄学院)](https://wjx.seu.edu.cn/) with a bachelor's degree.
 
 My research interest includes high performance computing and system for AI.
