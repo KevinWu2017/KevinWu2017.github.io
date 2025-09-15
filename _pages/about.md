@@ -52,7 +52,7 @@ My research interest includes high performance computing and system for AI.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - (now)*, Purchasing Ph.D, Shanghai Jiao Tong University. 
+- *2021.09 - (now)*, Pursuing Ph.D, Shanghai Jiao Tong University. 
 - *2017.09 - 2021.06*, Chien-Shiung Wu College, Southeast University. 
 
 <!-- # 💬 Invited Talks
