@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Ph.D student at [TCloud Lab](https://tcloud.sjtu.edu.cn/) in Shanghai Jiao Tong University.
-I graduated from Chien-Shiung Wu College, Southeast University [(东南大学吴健雄学院)](https://wjx.seu.edu.cn/) with a bachelor's degree.
 
-My research interest includes high performance computing and system for AI.
+I am currently a Ph.D. student at [TCloud Lab](https://tcloud.sjtu.edu.cn/), Shanghai Jiao Tong University (SJTU). I received my B.S. degree from [Chien-Shiung Wu College](https://wjx.seu.edu.cn/), Southeast University.
+
+Currently, my research is situated at the intersection of AI Infrastructure and High-Performance Computing (HPC). I am particularly interested in architecting efficient systems that scale deep learning workloads and optimizing performance for next-generation hardware. My goal is to bridge the gap between complex AI algorithms and the underlying hardware capabilities to enable more powerful and sustainable computing.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
