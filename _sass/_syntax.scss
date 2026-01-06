@@ -136,9 +136,9 @@ div.highlighter-rouge, figure.highlight {
 .conference-badge {
   background-color: #03228d;
   color: white;
-  padding: 0.2em 0.4em;
-  border-radius: 3px;
-  font-size: 0.9em;
+  padding: 0em;
+  border-radius: 0;
+  font-size: $type-size-7;
   font-weight: normal;
   white-space: nowrap;
 }
