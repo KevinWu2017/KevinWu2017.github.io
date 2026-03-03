@@ -46,8 +46,11 @@ Currently, my research is situated at the intersection of AI Infrastructure and 
 </div> -->
 
 - <span class="conference-badge">`Eurosys 2025`</span> [Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores](https://dl.acm.org/doi/10.1145/3689031.3717455), **Chenpeng Wu\***, Qiqi Gu\*, Heng Shi, et al. [![](https://img.shields.io/github/stars/guqiqi/Samoyeds?style=social&label=Code+Stars)](https://github.com/guqiqi/Samoyeds)
+  - Summary: This work addresses the compute and memory bottlenecks of MoE LLM inference by jointly exploiting structured sparsity in both activations and weights. It introduces a dedicated sparse data format and sparse-sparse kernels tailored for Sparse Tensor Cores, together with system-level optimizations for practical deployment.
 - <span class="conference-badge">`PPoPP 2026`</span> [SPIDER: Unleashing Sparse Tensor Cores for Stencil Computation via Strided Swapping](https://dl.acm.org/doi/10.1145/3774934.3786414), Qiqi Gu\*, **Chenpeng Wu\***, Heng Shi, et al. [![](https://img.shields.io/github/stars/KevinWu2017/SPIDER?style=social&label=Code+Stars)](https://github.com/KevinWu2017/SPIDER)
+  - Summary: This paper targets redundant computation caused by zero-padding when mapping stencil workloads to Tensor Cores. SPIDER proposes a strided-swapping transformation (offline kernel transformation plus online input reordering) to satisfy 2:4 structured sparsity constraints and effectively enable Sparse Tensor Cores for stencil acceleration.
 - <span class="conference-badge">`TBD`</span> [Do We Need Tensor Cores for Stencil Computations?](http://arxiv.org/abs/2603.00477), Qiqi Gu\*, **Chenpeng Wu\***, Heng Shi, et al. 
+  - Summary: This study provides a systematic performance-modeling perspective on when stencil computations should use Tensor Cores. It quantifies transformation overhead and arithmetic-intensity shifts under temporal fusion, derives analytical suitability criteria, and explains how Sparse Tensor Cores broaden the range of stencil workloads that can benefit.
 
 > \* Equal contribution / Joint first authors.
 
