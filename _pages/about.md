@@ -29,7 +29,7 @@ Currently, my research is situated at the intersection of AI Infrastructure and 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,7 +46,8 @@ Currently, my research is situated at the intersection of AI Infrastructure and 
 </div> -->
 
 - <span class="conference-badge">`Eurosys 2025`</span> [Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores](https://dl.acm.org/doi/10.1145/3689031.3717455), **Chenpeng Wu\***, Qiqi Gu\*, Heng Shi, et al. [![](https://img.shields.io/github/stars/guqiqi/Samoyeds?style=social&label=Code+Stars)](https://github.com/guqiqi/Samoyeds)
-- <span class="conference-badge">`PPoPP 2026`</span> [SPIDER: Unleashing Sparse Tensor Cores for Stencil Computation via Strided Swapping](https://arxiv.org/abs/2506.22035), Qiqi Gu\*, **Chenpeng Wu\***, Heng Shi, et al. [![](https://img.shields.io/github/stars/KevinWu2017/SPIDER?style=social&label=Code+Stars)](https://github.com/KevinWu2017/SPIDER)
+- <span class="conference-badge">`PPoPP 2026`</span> [SPIDER: Unleashing Sparse Tensor Cores for Stencil Computation via Strided Swapping](https://dl.acm.org/doi/10.1145/3774934.3786414), Qiqi Gu\*, **Chenpeng Wu\***, Heng Shi, et al. [![](https://img.shields.io/github/stars/KevinWu2017/SPIDER?style=social&label=Code+Stars)](https://github.com/KevinWu2017/SPIDER)
+- <span class="conference-badge">`TBD`</span> [Do We Need Tensor Cores for Stencil Computations?](http://arxiv.org/abs/2603.00477), Qiqi Gu\*, **Chenpeng Wu\***, Heng Shi, et al. 
 
 > \* Equal contribution / Joint first authors.
 
