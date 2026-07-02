@@ -53,7 +53,7 @@ Currently, my research is situated at the intersection of AI Infrastructure and 
   - Summary: This study explains when and why Tensor Cores can accelerate stencil computations, which are traditionally viewed as memory-bound. It builds a performance model that accounts for transformation overheads and temporal fusion, identifying the conditions under which Tensor Core adaptation is beneficial.
 - <span class="conference-badge">`TBD`</span> SptcAttn: Accelerating Long-Context Attention with Diagonal Stripes using Sparse Tensor Core, **Chenpeng Wu\***, Qiqi Gu\*, Heng Shi, et al.
   - Summary: This work accelerates long-context sparse attention by mapping diagonal-stripe attention patterns to Sparse Tensor Core-compatible 2:4 sparsity. SptcAttn removes structured intra-tile redundancy without discarding selected attention scores, improving prefill performance while preserving model accuracy.
-- <span class="SC 2026">`TBD`</span> Pushing the Limits of Structured Sparse GEMM on Hopper GPUs via Analytical Modeling, Heng Shi, Qiqi Gu, **Chenpeng Wu**, Qiqi Gu , et al.
+- <span class="conference-badge">`SC 2026`</span> Pushing the Limits of Structured Sparse GEMM on Hopper GPUs via Analytical Modeling, Heng Shi, Qiqi Gu, **Chenpeng Wu**, et al.
 
 > \* Equal contribution / Joint first authors.
 
